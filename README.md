@@ -1,24 +1,4 @@
-# README
+#Rails5.2+Vue.js完成Lists（curd）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###
+1. Edit/update使用SPA（不换页）的方法完成。点击文字出现一个输入框和按钮。
